@@ -1,0 +1,6 @@
+roots (15, 55, 144) trace 3 det 7 s 144 orders [6, 5, 7] private True
+roots (63, 178, 184) trace 3 det 7 s 65 orders [14, 21, 35] private True
+T_3(7) formula 81 enumerated 81 distinct traces 68 multiplicities {1: 56, 3: 1, 2: 11}
+Fibonacci mod 5 cycles: {20: 1, 4: 1}
+orders 6,10,15 roots [6, 15, 7] periods [6, 10, 15, 30]
+all checks passed

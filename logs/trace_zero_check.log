@@ -1,0 +1,16 @@
+k=2 q=31: T(0)=0  k!T(0)=0  main=6.27  dev=6.27  dev/q^(k/2)=0.202  bound/q^(k/2)=179
+k=2 q=61: T(0)=0  k!T(0)=0  main=14.60  dev=14.60  dev/q^(k/2)=0.239  bound/q^(k/2)=315
+k=2 q=211: T(0)=0  k!T(0)=0  main=59.35  dev=59.35  dev/q^(k/2)=0.281  bound/q^(k/2)=787
+k=2 q=421: T(0)=0  k!T(0)=0  main=133.83  dev=133.83  dev/q^(k/2)=0.318  bound/q^(k/2)=1395
+k=3 q=31: T(0)=0  k!T(0)=0  main=1.55  dev=1.55  dev/q^(k/2)=0.009  bound/q^(k/2)=799
+k=3 q=61: T(0)=2  k!T(0)=12  main=7.08  dev=4.92  dev/q^(k/2)=0.010  bound/q^(k/2)=1447
+k=3 q=151: T(0)=5  k!T(0)=30  main=40.05  dev=10.05  dev/q^(k/2)=0.005  bound/q^(k/2)=1447
+k=3 q=181: T(0)=15  k!T(0)=90  main=66.83  dev=23.17  dev/q^(k/2)=0.010  bound/q^(k/2)=2623
+k=3 q=211: T(0)=19  k!T(0)=114  main=141.84  dev=27.84  dev/q^(k/2)=0.009  bound/q^(k/2)=4519
+k=3 q=421: T(0)=130  k!T(0)=780  main=634.31  dev=145.69  dev/q^(k/2)=0.017  bound/q^(k/2)=8239
+k=4 q=211: T(0)=0  k!T(0)=0  main=5.46  dev=5.46  dev/q^(k/2)=0.000  bound/q^(k/2)=20239
+t = 0 checks passed
+
+real	0m1.825s
+user	0m1.712s
+sys	0m0.036s

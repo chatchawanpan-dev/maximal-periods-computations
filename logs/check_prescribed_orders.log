@@ -1,0 +1,6 @@
+N=60 k=2: prescribed-orders formula agrees for all r and all order tuples
+N=120 k=2: prescribed-orders formula agrees for all r and all order tuples
+N=60 k=3: prescribed-orders formula agrees for all r and all order tuples
+N=120 k=3: prescribed-orders formula agrees for all r and all order tuples
+N=90 k=3: prescribed-orders formula agrees for all r and all order tuples
+special case omega(r) = k agrees with Theorem A

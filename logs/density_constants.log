@@ -1,0 +1,4 @@
+k=2: c_k(truncated) = 0.875157365586, tail mass <= +inf, c_k/k! = 0.43757868
+k=3: c_k(truncated) = 0.00736518525064, tail mass <= 1.5e-6, c_k/k! = 0.0012275309
+k=4: c_k(truncated) = 1.34780457215e-6, tail mass <= 5.0e-13, c_k/k! = 5.6158524e-8
+k=5: c_k(truncated) = 2.02526600597e-12, tail mass <= 2.08e-19, c_k/k! = 1.6877217e-14

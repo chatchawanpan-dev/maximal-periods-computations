@@ -1,0 +1,8 @@
+c_3 ~ 0.007365;  c_k/k! ~ 0.001228
+c_4 ~ 0.000001;  c_k/k! ~ 0.000000
+c_5 ~ 0.000000;  c_k/k! ~ 0.000000
+p=31: main      0.26  range [0, 1]  max dev    0.74  bound     4128.2  T(0)=0  total ok
+p=61: main      1.18  range [0, 3]  max dev    1.82  bound    14711.2  T(0)=2  total ok
+p=151: main      6.68  range [4, 10]  max dev    3.32  bound    36416.2  T(0)=5  total ok
+p=181: main     11.14  range [5, 17]  max dev    6.14  bound    79127.2  T(0)=15  total ok
+p=211: main     23.64  range [16, 38]  max dev   14.36  bound   158918.2  T(0)=19  total ok

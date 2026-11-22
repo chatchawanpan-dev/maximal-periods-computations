@@ -1,0 +1,14 @@
+k=2 q=2: Lemma 2.1 agrees for all 2 polynomials
+k=2 q=3: Lemma 2.1 agrees for all 6 polynomials
+k=2 q=4: Lemma 2.1 agrees for all 12 polynomials
+k=2 q=5: Lemma 2.1 agrees for all 20 polynomials
+k=2 q=7: Lemma 2.1 agrees for all 42 polynomials
+k=2 q=8: Lemma 2.1 agrees for all 56 polynomials
+k=2 q=9: Lemma 2.1 agrees for all 72 polynomials
+k=3 q=2: Lemma 2.1 agrees for all 4 polynomials
+k=3 q=3: Lemma 2.1 agrees for all 18 polynomials
+k=3 q=4: Lemma 2.1 agrees for all 48 polynomials
+k=3 q=5: Lemma 2.1 agrees for all 100 polynomials
+k=3 q=7: Lemma 2.1 agrees for all 294 polynomials
+k=4 q=2: Lemma 2.1 agrees for all 8 polynomials
+k=4 q=3: Lemma 2.1 agrees for all 54 polynomials

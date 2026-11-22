@@ -1,0 +1,21 @@
+Part 1: k = 3, all prime powers q <= 13, all determinants
+q=2: ok
+q=3: ok
+q=4: ok
+q=5: ok
+q=7: ok
+q=8: ok
+q=9: ok
+q=11: ok
+q=13: ok
+Part 1b: k = 4, q in {2,3,4,5}
+q=2: ok
+q=3: ok
+q=4: ok
+q=5: ok
+Part 2: k = 3, q = 31, primitive delta = 3 and delta of order 15, 10, 6
+  q=31 k=3 delta=3 (ord 30): max-count 1  #P histogram {1: 336, 2: 291, 3: 270, 4: 46, 5: 17, 7: 1}
+  q=31 k=3 delta=7 (ord 15): max-count 0  #P histogram {1: 336, 2: 295, 3: 297, 4: 22, 5: 11}
+  q=31 k=3 delta=15 (ord 10): max-count 0  #P histogram {1: 333, 2: 415, 3: 168, 4: 38, 5: 7}
+  q=31 k=3 delta=6 (ord 6): max-count 0  #P histogram {1: 335, 2: 352, 3: 217, 4: 44, 5: 13}
+all checks passed

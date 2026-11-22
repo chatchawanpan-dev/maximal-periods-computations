@@ -1,0 +1,30 @@
+  N=30 k=3 r=30: 1 polynomials; by largest period {30: 1}
+N=30, k=3: r in all divisors agree
+  N=60 k=3 r=30: 1 polynomials; by largest period {30: 1}
+  N=60 k=3 r=60: 4 polynomials; by largest period {60: 4}
+N=60, k=3: r in all divisors agree
+  N=120 k=3 r=30: 1 polynomials; by largest period {30: 1}
+  N=120 k=3 r=60: 4 polynomials; by largest period {60: 4}
+  N=120 k=3 r=120: 16 polynomials; by largest period {120: 16}
+N=120, k=3: r in all divisors agree
+  N=180 k=3 r=30: 1 polynomials; by largest period {30: 1}
+  N=180 k=3 r=60: 4 polynomials; by largest period {60: 4}
+  N=180 k=3 r=90: 9 polynomials; by largest period {90: 9}
+  N=180 k=3 r=180: 36 polynomials; by largest period {180: 36}
+N=180, k=3: r in all divisors agree
+  N=210 k=3 r=30: 49 polynomials; by largest period {30: 1, 210: 48}
+  N=210 k=3 r=42: 25 polynomials; by largest period {42: 1, 210: 24}
+  N=210 k=3 r=70: 9 polynomials; by largest period {70: 1, 210: 8}
+  N=210 k=3 r=105: 4 polynomials; by largest period {105: 1, 210: 3}
+  N=210 k=3 r=210: 81 polynomials; by largest period {210: 81}
+N=210, k=3: r in all divisors agree
+  N=210 k=4 r=210: 1 polynomials; by largest period {210: 1}
+N=210, k=4: r in [210, 105, 42] agree
+  N=420 k=4 r=420: 8 polynomials; by largest period {420: 8}
+  N=420 k=4 r=210: 1 polynomials; by largest period {210: 1}
+N=420, k=4: r in [420, 210] agree
+all checks passed
+
+real	1m39.672s
+user	1m34.839s
+sys	0m4.367s
